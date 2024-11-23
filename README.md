@@ -33,9 +33,11 @@ Para conectar ao banco de dados, localize as propriedades username password. Nes
 ```
 Após realizar as alterações, salve o arquivo e execute a aplicação. A aplicação utilizará as novas credenciais para se conectar ao banco de dados.
 
+LINK DO PITCH NO YOUTUBE: 
+
 ## Integrantes
-Cauã Loureiro RM553093
-Igor Oviedo RM553434
-Thiago Carrillo RM553565
+### Cauã Loureiro RM553093
+### Igor Oviedo RM553434
+### Thiago Carrillo RM553565
 
 
